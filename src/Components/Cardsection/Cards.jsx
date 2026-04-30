@@ -3,7 +3,7 @@ import AvailablePlayers from '../Availableplayers/AvailablePlayers';
 import SelectedPlayers from '../SelectedPlayers/SelectedPlayers';
 
 
-const Cards = ({playerPromise}) => {
+const Cards = ({playerPromise,setCoin,coin,player}) => {
 
 
 const playersData = use(playerPromise);
@@ -11,6 +11,7 @@ const players = playersData.cricketers;
 
 const [available,setAvailable]=useState("available");
 
+const [choosePlayer, setChoosePlayer] = useState([]);
 
 
   return (
@@ -21,7 +22,7 @@ const [available,setAvailable]=useState("available");
                 available==="available" ?(
                      <h2 className='text-3xl font-bold  '>Available Players</h2>
                 ):(
-                    <h2 className='text-3xl font-bold  '>Selected players</h2>
+                    <h2 className='text-3xl font-bold  '>Selected players {choosePlayer.length}/20</h2>
                 )
 
                }
@@ -35,7 +36,9 @@ const [available,setAvailable]=useState("available");
         </div>
         
 
-     {available==="available"?<AvailablePlayers playersData={players} />:<SelectedPlayers/>}
+     {available==="available"?
+     <AvailablePlayers playersData={players} setCoin={setCoin} coin={coin} player={player} choosePlayer={choosePlayer} setChoosePlayer={setChoosePlayer} /> :
+     <SelectedPlayers choosePlayer={choosePlayer} setChoosePlayer={setChoosePlayer} setCoin={setCoin} coin={coin} player={player} />}
     </div>
   )
 }

@@ -8,7 +8,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm medium",
       "rating": 9.8,
-      "price": "Price :  1020000",
+      "price":1020000,
       "image": "https://i.ibb.co.com/RqpPPY7/virat.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm off break",
       "rating": 9.5,
-      "price": "Price : 1150000",
+      "price":1150000,
       "image": "https://i.ibb.co.com/KjQqHYqq/rohit.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm off break",
       "rating": 9.4,
-      "price": "Price : 1010000",
+      "price": 1010000,
       "image": "https://i.ibb.co.com/SXGkqVZF/babar.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm off break",
       "rating": 9.2,
-      "price": "Price : 1050000",
+      "price": 1050000,
       "image": "https://i.ibb.co.com/j9VC58st/root.png"
     },
     {
@@ -52,7 +52,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm off break",
       "rating": 9.3,
-      "price": "Price : 1080000",
+      "price": 1080000,
       "image": "https://i.ibb.co.com/qM12P42r/kane.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm leg break",
       "rating": 9.3,
-      "price": "Price : 1070000",
+      "price": 1070000,
       "image": "https://i.ibb.co.com/DgbKqTHd/smit.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "Right-arm fast-medium",
       "rating": 9.6,
-      "price": "Price : 1150000",
+      "price": 1150000,
       "image": "https://i.ibb.co.com/Lh55sn6h/stok.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "Left-arm orthodox",
       "rating": 9.5,
-      "price": "Price : 1120000",
+      "price":1120000,
       "image": "https://i.ibb.co.com/4nCGwRk6/sakib.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm fast",
       "rating": 9.7,
-      "price": "Price : 1180000",
+      "price":1180000,
       "image": "https://i.ibb.co.com/VpzQgFvx/bum.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Left-arm fast-medium",
       "rating": 9.2,
-      "price": "Price : 1040000",
+      "price":1040000,
       "image": "https://i.ibb.co.com/rG7M9zNz/bolt.jpg"
     },
     {
@@ -118,7 +118,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm fast",
       "rating": 9.4,
-      "price": "Price : 1010000",
+      "price": 1010000,
       "image": "https://i.ibb.co.com/RpZzyKKY/cum.jpg"
     },
     {
@@ -129,7 +129,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "Right-arm leg break",
       "rating": 9.1,
-      "price": "Price :  1020000",
+      "price": 1020000,
       "image": "https://i.ibb.co.com/DDFG6WhC/warner.jpg"
     },
     {
@@ -140,7 +140,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "—",
       "rating": 9.0,
-      "price": "Price : 1000000",
+      "price":1000000,
       "image": "https://i.ibb.co.com/7Jp8zdK6/decock.jpg"
     },
     {
@@ -151,7 +151,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "—",
       "rating": 9.3,
-      "price": "Price : 1080000",
+      "price": 1080000,
       "image": "https://i.ibb.co.com/6cS5qnhd/jos.jpg"
     },
     {
@@ -162,7 +162,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "—",
       "rating": 8.8,
-      "price": "Price : 950000",
+      "price":950000,
       "image": "https://i.ibb.co.com/2YFwmsS4/musfiq.jpg"
     },
     {
@@ -173,7 +173,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm leg break",
       "rating": 9.1,
-      "price": "Price : 1010000",
+      "price":1010000,
       "image": "https://i.ibb.co.com/8nvXxCyb/labu.jpg"
     },
     {
@@ -184,7 +184,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "—",
       "rating": 9.0,
-      "price": "Price : 1000000",
+      "price": 1000000,
       "image": "https://i.ibb.co.com/LDggDQPz/rahul.jpg"
     },
     {
@@ -195,7 +195,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "Left-arm fast",
       "rating": 9.2,
-      "price":"Price : 1040000",
+      "price":1040000,
       "image": "https://i.ibb.co.com/S4jgfY2q/afridi.jpg"
     },
     {
@@ -206,7 +206,7 @@
       "batting_style": "Right-hand bat",
       "bowling_style": "Right-arm leg break",
       "rating": 9.6,
-      "price":"Price : 1150000",
+      "price": 1150000,
       "image": "https://i.ibb.co.com/5h7ky02G/rashid.jpg"
     },
     {
@@ -217,7 +217,7 @@
       "batting_style": "Left-hand bat",
       "bowling_style": "Right-arm fast",
       "rating": 9.3,
-      "price": "Price : 1080000",
+      "price": 1080000,
       "image": "https://i.ibb.co.com/hRDTrZSr/Rabada.jpg"
     }
   ]
